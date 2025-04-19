@@ -6,14 +6,12 @@ title: "Hi, I’m Daniel Wu — Welcome to My Portfolio"
 layout: single
 author_profile: true
 ---
-
 ### **Who am I?**
 Welcome to my professional portfolio. I am Daniel Wu, a second-year Biomedical Engineering student at the University of Waterloo. This portfolio showcases a curated selection of my work, including technical projects, research interests, and startup ventures. 
 
 With a strong passion for the biotech industry, I am dedicated to expanding my knowledge of machine learning to contribute to innovative research and industries that aim to improve the lives of all individuals.
 
 ---
-
 
 <div style="margin-bottom: 1.5rem;"></div>
 
