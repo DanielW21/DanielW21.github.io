@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 Gemfile.lock
 sample_posts
+
+_pages/work.md

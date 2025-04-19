@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: "Hi, I’m Daniel Wu — Welcome to My Portfolio"
 layout: single
 author_profile: true
@@ -25,7 +22,7 @@ Supervised by: [Michal Koziarski](https://scholar.google.com/citations?user=hEVR
 
 ### 🚀 Current WIP Personal Projects
 - **SousChef**: App that scrapes cooking video manuscripts and generates live, voice-controlled instructions to allow for a hands-free experience.
-- **Physiq**: Workout App to educate about Biomechanics and proper fitness form and habits (See Post Below).
+- **Physiq**: Workout App to educate about Biomechanics and proper fitness form and habits (See Posts).
 
 <div style="margin-bottom: 1.5rem;"></div>
 
