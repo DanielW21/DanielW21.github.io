@@ -13,7 +13,6 @@ After getting into Pickleball, I really wanted to play on the weekend but spots 
 ---
 Sample Notification from Bot:
 
-<img src="{{ site.baseurl }}/assets/images/Notification-Bot/Notification.png" alt="Sample Notification" class="center-img">
+<img src="{{ site.baseurl }}/assets/images/Posts/Notification-Bot/Notification.png" alt="Sample Notification" class="center-img">
 
 ---
-
