@@ -1,11 +1,9 @@
 ---
 title: "Educational Fitness Trainer App"
 categories:
-  - Project
-tags:
-  - Python
-  - WIP
   - Entrepreneurial Venture
+tags:
+  - WIP
 date: 2025-04-15
 ---
 

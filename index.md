@@ -20,7 +20,7 @@ Supervised by: [Michal Koziarski](https://scholar.google.com/citations?user=hEVR
 
 <div style="margin-bottom: 1.5rem;"></div>
 
-### 🚀 Current WIP Personal Projects
+### 🚀 WIP Personal Projects
 - **SousChef**: App that scrapes cooking video manuscripts and generates live, voice-controlled instructions to allow for a hands-free experience.
 - **Physiq**: Workout App to educate about Biomechanics and proper fitness form and habits (See Posts).
 
