@@ -48,5 +48,3 @@ Users will progress through structured lessons that teach:
 - **Project Repository:** [Physiq on GitHub](https://github.com/DanielW21/Physiq)
 
 ---
-
-*Stay tuned for future posts as this project evolves!*

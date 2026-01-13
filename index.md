@@ -14,22 +14,25 @@ With a strong passion for the biotech industry, I am dedicated to expanding my k
 
 ### 🔧 Work Experience
 
+**Machine Learning Engineer**             
+*Altis Labs,    Sept-Dec 2025* 
+
 **Research Student, Machine Learning for Drug Discovery**  
-*The Hospital for Sick Children (SickKids)*  
+*SickKids,    Jan-Apr 2025*  
 Supervised by: [Michal Koziarski](https://scholar.google.com/citations?user=hEVRtosAAAAJ&hl=en)
 
 <div style="margin-bottom: 1.5rem;"></div>
 
-### 🚀 WIP Personal Projects
+<!-- ### 🚀 WIP Personal Projects
 - **SousChef**: App that scrapes cooking video manuscripts and generates live, voice-controlled instructions to allow for a hands-free experience.
 - **Physiq**: Workout App to educate about Biomechanics and proper fitness form and habits (See Posts).
 
-<div style="margin-bottom: 1.5rem;"></div>
+<div style="margin-bottom: 1.5rem;"></div> -->
 
 ### 📚 Currently Consuming
 
-- *An Introduction to Statistical Learning with Applications in Python* (ML and Stats)  
-- *Nexus: A Brief History of Information Networks from the Stone Age to AI* (Information Theory Audiobook)
+- *Fundamentals of Machine Learning and Deep Learning in Medicine* 
+- *Nexus: A Brief History of Information Networks from the Stone Age to AI* 
 
 <div style="margin-bottom: 1.5rem;"></div>
 
