@@ -1,10 +1,10 @@
 ---
 title: "Experience at SickKids"
 categories:
-  - Work
+  - Internship
 tags:
   - Machine Learning
-  - Biotech
+  - Drug Discovery
 date: 2025-04-17
 ---
 

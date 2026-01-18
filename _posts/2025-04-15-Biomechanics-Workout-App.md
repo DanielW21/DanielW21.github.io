@@ -43,8 +43,3 @@ Users will progress through structured lessons that teach:
   - Combine nutrition with goals to create more reasonable learning progression
 
 ---
-
-### 🔗 Links:
-- **Project Repository:** [Physiq on GitHub](https://github.com/DanielW21/Physiq)
-
----

@@ -38,7 +38,7 @@ plugins:
 author:
   name   : "Daniel Wu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi, I'm Daniel Wu, a 2nd year Biomedical Engineering Student. Welcome to my website, where I showcase my projects, professional experience, and share a bit about who I am."
+  bio    : "Hi, I'm Daniel Wu, a 3rd year Biomedical Engineering Student. Welcome to my website, where I showcase my projects, professional experience, and share a bit about who I am."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

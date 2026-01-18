@@ -1,11 +1,12 @@
 ---
 title: "Machine Learning Engineer at Altis Labs"
 categories:
-  - Work
+  - Internship
 tags:
   - Machine Learning
   - Medical Imaging
-date: 2026-01-12
+  - Survival Analysis
+date: 2025-12-19
 ---
 
 ## Machine Learning Engineer at Altis Labs
