@@ -86,6 +86,11 @@ The Arduino-based control system implements intelligent muscle contraction class
 
 ## Results and Testing
 
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/assets/Posts/Prosthetic-Arm/Testing All Components.jpg" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <p style="font-style: italic; margin-top: 15px; color: #666;">Comprehensive testing setup with all subsystems</p>
+</div>
+
 Our prosthetic successfully demonstrated:
 
 **Reliable object gripping** - Consistent grasp/release of small workshop items  
