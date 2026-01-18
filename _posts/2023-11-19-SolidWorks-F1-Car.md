@@ -3,6 +3,7 @@ title: "SolidWorks F1 Car Project"
 categories:
   - Project
 tags:
+  - CAD
   - SolidWorks
 date: 2023-11-19
 ---

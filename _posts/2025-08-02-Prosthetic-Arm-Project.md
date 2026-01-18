@@ -3,9 +3,7 @@ title: "EMG-Controlled Prosthetic Arm Design"
 categories:
   - Project
 tags:
-  - EMG
-  - Arduino
-  - Prosthetics
+  - CAD
   - Circuit Design
   - Signal Processing
 date: 2025-08-02

@@ -3,6 +3,7 @@ title: "SolidWorks Moon Jellyfish Project"
 categories:
   - Project
 tags:
+  - CAD
   - SolidWorks
 date: 2023-11-12
 ---

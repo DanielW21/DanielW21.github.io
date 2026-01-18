@@ -5,7 +5,6 @@ categories:
 tags:
   - Machine Learning
   - Medical Imaging
-  - Survival Analysis
 date: 2025-12-19
 ---
 

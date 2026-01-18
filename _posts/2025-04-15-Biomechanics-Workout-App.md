@@ -2,8 +2,6 @@
 title: "Educational Fitness Trainer App"
 categories:
   - Entrepreneurial Venture
-tags:
-  - WIP
 date: 2025-04-15
 ---
 

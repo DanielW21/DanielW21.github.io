@@ -4,7 +4,6 @@ categories:
   - Internship
 tags:
   - Machine Learning
-  - Drug Discovery
 date: 2025-04-17
 ---
 
