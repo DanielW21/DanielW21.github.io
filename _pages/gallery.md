@@ -62,12 +62,12 @@ A showcase of some of my life while at UW engineering through images.
 
   <div class="gallery-item">
     <img src="/assets/Posts/Jellyfish-Project/Parts.jpg">
-    <p>Individual components and assembly parts for the jellyfish mechanism</p>
+    <p>Individual components and assembly parts for a rotating jellyfish mechanism</p>
   </div>
 
   <div class="gallery-item">
     <img src="/assets/Posts/Prosthetic-Arm/Gallery Walk Poster.png">
-    <p>Research poster showcasing prosthetic arm design and development process</p>
+    <p>Poster of BME 261 prosthetic arm design and development process</p>
   </div>
 
   <div class="gallery-item">
