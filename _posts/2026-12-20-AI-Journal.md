@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Engineer at Altis Labs"
+title: "AI Findings and Reflections"
 categories:
   - Academic
   - For Fun!
